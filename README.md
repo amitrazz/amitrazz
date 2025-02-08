@@ -6,16 +6,16 @@ Hello! I'm **Amit Kumar**, a passionate **Tech Lead / Senior Software Engineer**
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
-
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitrazz)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td width="50%" align="center">
+<td width="50%" align="left">
 
 🔗 **Website:** [amit-mishra.com](https://amit-mishra.com)  
 🔗 **LinkedIn:** [amitrazz](https://www.linkedin.com/in/amitrazz/)  
 🔗 **GitHub:** [amitrazz](https://github.com/amitrazz)  
+
+</td>
+<td width="50%" align="center">
+
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitrazz)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
