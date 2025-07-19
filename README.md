@@ -44,7 +44,6 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square&logo=circleci)
