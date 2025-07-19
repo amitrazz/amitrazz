@@ -88,12 +88,12 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitrazz&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
-
+<!-- 
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/amitrazz"><img alt="Check out amitrazz's profile on stardev.io" src="https://stardev.io/developers/amitrazz/badge/languages/global.svg" /></a>
 ---
-
+-->
 
 ### Featured Repositories
 
@@ -102,5 +102,11 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=serverless-dashboard&theme=algolia" />
 </a>
 <a href="https://github.com/amitrazz/dev-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=dev-tools&theme=algolia" />
+</a>
+<a href="https://github.com/amitrazz/Tracko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=serverless-dashboard&theme=algolia" />
+</a>
+<a href="https://github.com/amitrazz/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=dev-tools&theme=algolia" />
 </a>
