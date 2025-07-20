@@ -35,8 +35,8 @@ Hello, I'm **Amit**, a Full Stack Engineer with 9+ years of experience crafting 
 
 <p>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrazz&theme=algolia" alt="amitrazz" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" ght: 15px;"  src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit GitHub status" />
+ &nbsp;&nbsp;
+  <img align="center""  src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit GitHub status" />
 </p>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrazz&layout=compact&theme=algolia&langs_count=10&card_width=1000" />
