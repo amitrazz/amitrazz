@@ -4,11 +4,8 @@
   </a>
 </h1>
 
-
+### 👨‍💻 About Me
 <div>
-  <div style="display: inline-block; vertical-align: middle;">
-    <h3>👨‍💻 About Me</h3>
-  </div>
   <div style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://komarev.com/ghpvc/?username=amitrazz&color=brightgreen" alt="Profile Views" />
   </div>
