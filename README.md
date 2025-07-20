@@ -4,16 +4,17 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitrazz&color=brightgreen" alt="Profile Views">
-</p>
 
----
+<div>
+  <div style="display: inline-block; vertical-align: middle;">
+    <h3>👨‍💻 About Me</h3>
+  </div>
+  <div style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=amitrazz&color=brightgreen" alt="Profile Views" />
+  </div>
+</div>
 
-### 👨‍💻 About Me
-
-
-Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting production-grade systems across the stack — from sleek frontends to resilient backends and automated DevOps pipelines.
+Hello, I'm **Amit**, a Full Stack Engineer with 9+ years of experience crafting production-grade systems across the stack — from sleek frontends to resilient backends and automated DevOps pipelines.
 
 - 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
 - 🌱 On a mission to master Fullstack Engineering ❤️
@@ -27,6 +28,21 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitrazz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitmishra4893@gmail.com)
+
+---
+
+### My Github Stats:
+
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrazz&theme=algolia" alt="amitrazz" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" ght: 15px;"  src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit GitHub status" />
+</p>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrazz&layout=compact&theme=algolia&langs_count=10&card_width=1000" />
+<p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=amitrazz&theme=algolia&row=1&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -70,23 +86,6 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
 
 
 ---
-
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrazz&theme=algolia" alt="amitrazz" />
-</p>
-
----
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitrazz&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
 <!-- 
 ### StarDev Ranking
 
@@ -96,16 +95,25 @@ Hi, I’m **Amit**, a Full Stack Engineer with 9+ years of experience crafting p
 
 ### Featured Repositories
 
+<div align="center">
+  <a href="https://github.com/amitrazz/serverless-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=serverless-dashboard&theme=algolia" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/amitrazz/dev-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=dev-tools&theme=algolia" />
+  </a>
+</div>
 
-<a href="https://github.com/amitrazz/serverless-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=serverless-dashboard&theme=algolia" />
-</a>
-<a href="https://github.com/amitrazz/dev-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=dev-tools&theme=algolia" />
-</a>
-<a href="https://github.com/amitrazz/Tracko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=serverless-dashboard&theme=algolia" />
-</a>
-<a href="https://github.com/amitrazz/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=dev-tools&theme=algolia" />
-</a>
+<br>
+
+<div align="center">
+  <a href="https://github.com/amitrazz/Tracko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=Tracko&theme=algolia" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/amitrazz/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitrazz&repo=portfolio&theme=algolia" />
+  </a>
+</div>
+
