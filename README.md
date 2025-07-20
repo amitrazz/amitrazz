@@ -34,15 +34,20 @@ Hello, I'm **Amit**, a Full Stack Engineer with 9+ years of experience crafting 
 ### My Github Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitrazz&theme=algolia" alt="amitrazz" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit GitHub status" style="display: inline-block; margin-left: 10px;" />
-</div>
-
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrazz&layout=compact&theme=algolia&langs_count=10&card_width=1000" />
-<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitrazz&theme=algolia&card_width=1000" alt="amitrazz" style="display: inline-block;" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitrazz&show_icons=true&include_all_commits=true&theme=algolia&card_width=1000" alt="Amit GitHub status" style="display: inline-block; margin-left: 10px;" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrazz&layout=compact&theme=algolia&langs_count=10&card_width=1000" />
+  <br>
+  <br>
+  <p>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=amitrazz&theme=algolia&row=1&margin-w=15&margin-h=15" />
 </p>
+</div>
+
 
 ---
 
